@@ -1,0 +1,136 @@
+{
+  "FootballFixtures": {
+    "Countries": [
+      {
+        "CountryName": "England",
+        "CountryFlag": "https://flagcdn.com/w320/gb.png",
+        "Competitions": [
+          {
+            "CompetitionName": "Premier League",
+            "Fixtures": [
+              {
+                "MatchTime": "Sun, 14:00",
+                "HomeTeam": "Everton",
+                "AwayTeam": "Manchester United",
+                "HomeTeamLogo": "...",
+                "AwayTeamLogo": "...",
+                "Status": "Upcoming"
+              },
+              {
+                "MatchTime": "Sun, 16:30",
+                "HomeTeam": "Arsenal",
+                "AwayTeam": "Chelsea",
+                "HomeTeamLogo": "...",
+                "AwayTeamLogo": "...",
+                "Status": "Upcoming"
+              }
+            ]
+          },
+          {
+            "CompetitionName": "Championship",
+            "Fixtures": [
+              {
+                "MatchTime": "Sun, 12:00",
+                "HomeTeam": "Birmingham City",
+                "AwayTeam": "Wolverhampton Wanderers",
+                "HomeTeamLogo": "...",
+                "AwayTeamLogo": "...",
+                "Status": "Upcoming"
+              }
+            ]
+          },
+          {
+            "CompetitionName": "Women's Super League",
+            "Fixtures": [
+              {
+                "MatchTime": "Sun, 12:00",
+                "HomeTeam": "Brighton & Hove Albion",
+                "AwayTeam": "Arsenal",
+                "HomeTeamLogo": "...",
+                "AwayTeamLogo": "...",
+                "Status": "Upcoming"
+              },
+              {
+                "MatchTime": "Sun, 12:00",
+                "HomeTeam": "Tottenham Hotspur",
+                "AwayTeam": "West Ham United",
+                "HomeTeamLogo": "...",
+                "AwayTeamLogo": "...",
+                "Status": "Upcoming"
+              },
+              {
+                "MatchTime": "Sun, 14:00",
+                "HomeTeam": "Charlton Athletic",
+                "AwayTeam": "Liverpool",
+                "HomeTeamLogo": "...",
+                "AwayTeamLogo": "...",
+                "Status": "Upcoming"
+              },
+              {
+                "MatchTime": "Sun, 14:00",
+                "HomeTeam": "Crystal Palace",
+                "AwayTeam": "Everton",
+                "HomeTeamLogo": "...",
+                "AwayTeamLogo": "...",
+                "Status": "Upcoming"
+              },
+              {
+                "MatchTime": "Sun, 14:30",
+                "HomeTeam": "Manchester City",
+                "AwayTeam": "Birmingham City",
+                "HomeTeamLogo": "...",
+                "AwayTeamLogo": "...",
+                "Status": "Upcoming"
+              }
+            ]
+          },
+          {
+            "CompetitionName": "League Cup",
+            "Fixtures": [
+              {
+                "MatchTime": "Sun, 19:45",
+                "HomeTeam": "Sunderland",
+                "AwayTeam": "Hull City",
+                "HomeTeamLogo": "...",
+                "AwayTeamLogo": "...",
+                "Status": "Upcoming"
+              },
+              {
+                "MatchTime": "Sun, 19:45",
+                "HomeTeam": "Leyton Orient",
+                "AwayTeam": "Bradford City",
+                "HomeTeamLogo": "...",
+                "AwayTeamLogo": "...",
+                "Status": "Upcoming"
+              },
+              {
+                "MatchTime": "Sun, 19:45",
+                "HomeTeam": "Crystal Palace",
+                "AwayTeam": "Middlesbrough",
+                "HomeTeamLogo": "...",
+                "AwayTeamLogo": "...",
+                "Status": "Upcoming"
+              },
+              {
+                "MatchTime": "Sun, 19:45",
+                "HomeTeam": "AFC Bournemouth",
+                "AwayTeam": "Lincoln City",
+                "HomeTeamLogo": "...",
+                "AwayTeamLogo": "...",
+                "Status": "Upcoming"
+              },
+              {
+                "MatchTime": "Sun, 20:00",
+                "HomeTeam": "Millwall",
+                "AwayTeam": "Newcastle United",
+                "HomeTeamLogo": "...",
+                "AwayTeamLogo": "...",
+                "Status": "Upcoming"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
