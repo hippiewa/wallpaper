@@ -1,1 +1,129 @@
-
+{
+  "FootballFixtures": {
+    "Countries": [
+      {
+        "CountryName": "United States",
+        "CountryFlag": "https://flagcdn.com/w320/us.png",
+        "Competitions": [
+          {
+            "CompetitionName": "American Football",
+            "Fixtures": [
+              {
+                "MatchTime": "Sun, 18:00",
+                "HomeTeam": "Tampa Bay",
+                "AwayTeam": "Cincinnati",
+                "HomeTeamLogo": "https://flagcdn.com/w320/us.png",
+                "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+                "Status": "Upcoming"
+              },
+              {
+                "MatchTime": "Sun, 18:00",
+                "HomeTeam": "New Orleans",
+                "AwayTeam": "Detroit",
+                "HomeTeamLogo": "https://flagcdn.com/w320/us.png",
+                "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+                "Status": "Upcoming"
+              },
+              {
+                "MatchTime": "Sun, 18:00",
+                "HomeTeam": "New York Jets",
+                "AwayTeam": "Tennessee",
+                "HomeTeamLogo": "https://flagcdn.com/w320/us.png",
+                "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+                "Status": "Upcoming"
+              },
+              {
+                "MatchTime": "Sun, 18:00",
+                "HomeTeam": "Baltimore",
+                "AwayTeam": "Indianapolis",
+                "HomeTeamLogo": "https://flagcdn.com/w320/us.png",
+                "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+                "Status": "Upcoming"
+              },
+              {
+                "MatchTime": "Sun, 18:00",
+                "HomeTeam": "Atlanta",
+                "AwayTeam": "Pittsburgh",
+                "HomeTeamLogo": "https://flagcdn.com/w320/us.png",
+                "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+                "Status": "Upcoming"
+              },
+              {
+                "MatchTime": "Sun, 18:00",
+                "HomeTeam": "Chicago",
+                "AwayTeam": "Carolina",
+                "HomeTeamLogo": "https://flagcdn.com/w320/us.png",
+                "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+                "Status": "Upcoming"
+              },
+              {
+                "MatchTime": "Sun, 18:00",
+                "HomeTeam": "Cleveland",
+                "AwayTeam": "Jacksonville",
+                "HomeTeamLogo": "https://flagcdn.com/w320/us.png",
+                "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+                "Status": "Upcoming"
+              },
+              {
+                "MatchTime": "Sun, 18:00",
+                "HomeTeam": "Buffalo",
+                "AwayTeam": "Houston",
+                "HomeTeamLogo": "https://flagcdn.com/w320/us.png",
+                "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+                "Status": "Upcoming"
+              },
+              {
+                "MatchTime": "Sun, 21:25",
+                "HomeTeam": "Miami",
+                "AwayTeam": "Las Vegas",
+                "HomeTeamLogo": "https://flagcdn.com/w320/us.png",
+                "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+                "Status": "Upcoming"
+              },
+              {
+                "MatchTime": "Sun, 21:25",
+                "HomeTeam": "Green Bay",
+                "AwayTeam": "Minnesota",
+                "HomeTeamLogo": "https://flagcdn.com/w320/us.png",
+                "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+                "Status": "Upcoming"
+              },
+              {
+                "MatchTime": "Sun, 21:25",
+                "HomeTeam": "Washington",
+                "AwayTeam": "Philadelphia",
+                "HomeTeamLogo": "https://flagcdn.com/w320/us.png",
+                "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+                "Status": "Upcoming"
+              },
+              {
+                "MatchTime": "Sun, 21:25",
+                "HomeTeam": "Arizona",
+                "AwayTeam": "Los Angeles",
+                "HomeTeamLogo": "https://flagcdn.com/w320/us.png",
+                "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+                "Status": "Upcoming"
+              },
+              {
+                "MatchTime": "Sun, 01:20",
+                "HomeTeam": "Dallas",
+                "AwayTeam": "New York",
+                "HomeTeamLogo": "https://flagcdn.com/w320/us.png",
+                "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+                "Status": "Upcoming"
+              },
+              {
+                "MatchTime": "Tue, 01:15",
+                "HomeTeam": "Denver",
+                "AwayTeam": "Kansas City",
+                "HomeTeamLogo": "https://flagcdn.com/w320/us.png",
+                "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+                "Status": "Upcoming"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
